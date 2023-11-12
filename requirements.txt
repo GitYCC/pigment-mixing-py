@@ -1,0 +1,5 @@
+pymixbox
+pandas
+numpy
+matplotlib
+scipy
