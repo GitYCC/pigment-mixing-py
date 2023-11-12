@@ -1,5 +1,6 @@
 # Pigment Mixing Python
 
+![](./color_mixing_200.png)
 
 # Reference
 
